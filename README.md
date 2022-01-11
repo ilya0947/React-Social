@@ -1,3 +1,3 @@
 # Social
 
-[demo](https://github.com/ilya0947/React-Social)
+[demo](https://ilya0947.github.io/React-Social)
