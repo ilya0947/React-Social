@@ -2,7 +2,7 @@
   "name": "react_test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ilya0947.github.io/React-food",
+  "homepage": "https://github.com/ilya0947/React-Social",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",

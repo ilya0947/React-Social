@@ -1,3 +1,3 @@
 # Social
 
-[demo](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[demo](https://github.com/ilya0947/React-Social)
